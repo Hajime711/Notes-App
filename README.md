@@ -6,5 +6,5 @@ Mern Stack:
 -> Node as package manager
 -> Mongo as the Database
 
-# Todo List
-A basic Todo List web application for learning purposes
+# Notes App
+A basic Notes App web application for learning purposes
